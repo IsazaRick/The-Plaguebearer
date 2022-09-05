@@ -1,0 +1,10 @@
+Plague Doctor
+if(getHit) -> change Char
+if(!infectedCount) -> X
+if(susCount = susMAX) -> SFS(PD)
+
+if the Doc is near you and your sus bar is past
+half he will follow you but slowly
+
+if you sneeze in sneezeradius he chases you FAST
+if you sneeze within susradius he chases you fast
